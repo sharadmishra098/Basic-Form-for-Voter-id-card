@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voter ID Card Management", "Voter ID Card Management\Voter ID Card Management.csproj", "{11B4A21A-5011-43F4-B894-75137BA214DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B4A21A-5011-43F4-B894-75137BA214DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B4A21A-5011-43F4-B894-75137BA214DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B4A21A-5011-43F4-B894-75137BA214DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B4A21A-5011-43F4-B894-75137BA214DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46F54C9-8572-4834-9D63-A49D839DCD39}
+	EndGlobalSection
+EndGlobal
