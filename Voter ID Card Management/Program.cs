@@ -10,6 +10,7 @@ namespace Voter_ID_Card_Management
     {
         /// <summary>
         /// The main entry point for the application.
+        /// first project
         /// </summary>
         [STAThread]
         static void Main()
